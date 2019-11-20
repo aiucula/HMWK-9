@@ -1,7 +1,7 @@
 import setuptools
 
 packaging_tutorial/
-  Assignment 9.py
+  Assignment10_pkg/
   setup.py
   LICENSE
   README.md
